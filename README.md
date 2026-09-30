@@ -1,8 +1,4 @@
-
-# Python File Organizer Automation
-
-## Description
-This project automatically organizes files into folders based on their file types.
+ organizes files into folders based on their file types.
 
 ## Features
 - Organizes images into the Images folder
